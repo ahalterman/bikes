@@ -1,0 +1,13 @@
+Package: bikes
+Type: Package
+Title: Data on Capital Bikeshare rides
+Version: 0.1
+Author: Andy Halterman <ahalterman0@gmail.com>
+Maintainer: Andy Halterman <ahalterman0@gmail.com>
+License: MIT
+Description: A data only package containing all rides taken
+    in the Capital Bikeshare system in Washington, DC between
+    July and September 2013.
+Depends:
+    R (>= 2.10)
+LazyData: true
